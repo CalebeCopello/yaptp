@@ -1,2 +1,2 @@
 # yaptp
-Yey Another PHP Tutorial Project
+Yet Another PHP Tutorial Project
